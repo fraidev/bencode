@@ -1,0 +1,5 @@
+(test
+ (name bencode_test)
+ (package bencode)
+ (deps test.torrent)
+ (libraries alcotest bencode))
